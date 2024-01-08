@@ -15,6 +15,7 @@
 ・飲食店エリア/ジャンル/店名　検索
 
 ##使用技術
+<img width="294" alt="image" src="https://github.com/sakurav12vsnr/case2/assets/138364593/2c07659d-7f80-427c-8f7a-c52ea00c3936">
 ・PHP 8.2.8
 ・Laravel 8.83.27
 ・Docker 24.0.2
