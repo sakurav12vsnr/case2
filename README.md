@@ -48,7 +48,7 @@ Dockerのコンテナを起動する
 (メール) tadashi@example.com
 (パスワード) tadashi1357
 
-(名前) テスト たかし
+(名前) テスト　たかし
 (メール) takashi@example.com
 (パスワード) takashi1357
 
