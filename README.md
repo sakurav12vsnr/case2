@@ -21,8 +21,11 @@
 
 ## 使用技術
 ・PHP 8.2.8
+
 ・Laravel 8.83.27
+
 ・Docker 24.0.2
+
 ・Mysql 8.0.26
 
 ## テーブル設計
@@ -33,5 +36,24 @@
 
 ## 環境構築
 ターミナルで$ git clone　git@github.com:sakurav12vsnr/case2.gitを入力し、ファイルを作成する。
+
+Dockerをインストールする
+
+Dockerのコンテナを起動する
+
+作業用ブランチを作成する
+
+## アカウント種類(テストユーザー)
+(名前) テスト　ただし
+(メール) tadashi@example.com
+(パスワード) tadashi1357
+
+(名前) テスト たかし
+(メール) takashi@example.com
+(パスワード) takashi1357
+
+
+
+
 
 
