@@ -6,7 +6,7 @@
 ## 作成目的
 外部の飲食店予約サービスは手数料が発生するため、自社で予約サービスを持ちたいから。
 
-##機能一覧
+## 機能一覧
 ・会員登録/ログイン/ログアウト
 ・ユーザー情報/予約情報/お気に入り一覧　取得
 ・飲食店一覧/詳細　取得
@@ -14,18 +14,18 @@
 ・飲食店予約情報　追加/削除
 ・飲食店エリア/ジャンル/店名　検索
 
-##使用技術
+## 使用技術
 ・PHP 8.2.8
 ・Laravel 8.83.27
 ・Docker 24.0.2
 ・Mysql 8.0.26
 
-##テーブル設計
+## テーブル設計
 
 <img width="294" alt="image" src="https://github.com/sakurav12vsnr/case2/assets/138364593/2c07659d-7f80-427c-8f7a-c52ea00c3936">
 
-##環境構築
-###　ターミナルで$ git clone　git@github.com:sakurav12vsnr/case2.gitを入力し、ファイルを作成する。
+## 環境構築
+### ターミナルで$ git clone　git@github.com:sakurav12vsnr/case2.gitを入力し、ファイルを作成する。
 
 ##ER図
 
