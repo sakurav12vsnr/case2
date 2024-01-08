@@ -8,10 +8,15 @@
 
 ## 機能一覧
 ・会員登録/ログイン/ログアウト
+
 ・ユーザー情報/予約情報/お気に入り一覧　取得
+
 ・飲食店一覧/詳細　取得
+
 ・飲食店お気に入り　追加/削除
+
 ・飲食店予約情報　追加/削除
+
 ・飲食店エリア/ジャンル/店名　検索
 
 ## 使用技術
@@ -27,6 +32,6 @@
 <img width="351" alt="image" src="https://github.com/sakurav12vsnr/case2/assets/138364593/337d88e1-5583-4d8f-b79b-6f019c128025">
 
 ## 環境構築
-### ターミナルで$ git clone　git@github.com:sakurav12vsnr/case2.gitを入力し、ファイルを作成する。
+ターミナルで$ git clone　git@github.com:sakurav12vsnr/case2.gitを入力し、ファイルを作成する。
 
 
