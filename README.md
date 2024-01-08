@@ -24,4 +24,8 @@
 <img width="294" alt="image" src="https://github.com/sakurav12vsnr/case2/assets/138364593/2c07659d-7f80-427c-8f7a-c52ea00c3936">
 
 ##ER図
+<img width="351" alt="image" src="https://github.com/sakurav12vsnr/case2/assets/138364593/337d88e1-5583-4d8f-b79b-6f019c128025">
+
+##環境構築
+
 
